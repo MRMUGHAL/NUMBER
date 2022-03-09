@@ -97,7 +97,7 @@ logo = """
       ___  ___     _____  ____  ____  ______  
      /  \/ _ Please __/  
     / ,_/ _Pray for \\\\\\\
-   /_/_/ Metoo//////////                                                                                          ​                                                                                     
+   /_/_/ everyone//////////                                                                                          ​                                                                                  
  ​______________________________________________
  ​Author   :            Sohaib MuGhaL
  Facebook :          Sohaib MuGhaL
